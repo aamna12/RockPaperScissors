@@ -1,0 +1,81 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    background-color: rgb(221, 221, 221);
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    padding-top: 10px;
+    padding-bottom:10px;
+    background-color: rgb(2, 2, 49);
+    color:white;
+}
+
+.imagesSection{
+    height:300px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.images{
+    height:180px;
+    width:200px;
+    border-radius:50% ;
+    border: 2px solid rgb(2, 2, 49); 
+}
+
+.images:hover{
+    border:7px solid rgb(2, 2, 49);
+}
+
+.scoreboard{
+    height:150px;
+    color:black;
+    font-size: 30px;
+    font-weight: bold;
+  
+}
+
+#userScoreboard{
+    margin-top: 5px;
+    font-size: 25px;
+    font-weight:none;
+   
+}
+
+#compScoreboard{
+    margin-top: 5px;
+    font-size: 25px;
+    font-weight:none;
+ 
+}
+
+.messageSection{
+    height:10px;
+    color:rgb(27, 14, 109);
+    margin-top:20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.hide{
+    display:none;
+}
+
+#newgamebtn{
+    background-color: rgb(142, 235, 238);
+    color:black;
+    padding:5px;
+    font-size: 27px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top:21px;
+}
+
