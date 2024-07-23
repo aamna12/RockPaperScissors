@@ -5,7 +5,7 @@
  ![5](https://github.com/user-attachments/assets/e423f6a1-0112-4100-9b78-f23a52908fea)
  <br>
  On selecting NEW GAME, the scores are reseted.
- <br>
+ <br><br>
 <b>Draw Game</b>
 <br>
 ![6](https://github.com/user-attachments/assets/0873b292-e2f1-439f-ae3f-0d915fe71892)
